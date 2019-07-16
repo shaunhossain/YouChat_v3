@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">YouChat</string>
+    <string name="need_new_account">NEED NEW ACCOUNT</string>
+    <string name="welcome_to_youchat_app">Welcome to YouChat app</string>
+    <string name="username">UserName</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_out">Log Out</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="create_a_new_account">CREATE A NEW ACCOUNT?</string>
+    <string name="do_you_have_an_account">Do you have an account ?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Sign Up</string>
+    <string name="username111">Username1</string>
+    <string name="username1">Username1</string>
+    <string name="password1">Password</string>
+    <string name="name1">Name</string>
+    <string name="no_account_yet_create_one">No account yet? Create one</string>
+    <string name="login">Login</string>
+    <string name="password2">Password</string>
+    <string name="email1">Email</string>
+    <string name="i_have_a_account">I HAVE A ACCOUNT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="all_user">All User</string>
+    <string name="accout_sittings">Accout Sittings</string>
+    <string name="display_name">Display Name</string>
+    <string name="change_image">CHANGE IMAGE</string>
+    <string name="change_status">CHANGE STATUS</string>
+    <string name="name">Name</string>
+
+    <string name="default_status">hi there! i am using YouChat.</string>
+    <string name="input_status">Your Status</string>
+</resources>
